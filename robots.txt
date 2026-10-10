@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /personal/
+Allow: /
+
+Sitemap: https://evakonkova2.github.io/evatur/sitemap.xml
